@@ -55,3 +55,14 @@
 <p>
   <img src="https://streak-stats.demolab.com?user=npmpiadev&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </p>
+
+### 🏫 My school account
+
+Most of my school and capstone commits live on my university account, **[@sopiyaaaaa](https://github.com/sopiyaaaaa)**, which uses my UST email. Check it out for my full contribution history.
+
+<p>
+  <img src="https://streak-stats.demolab.com?user=sopiyaaaaa&theme=tokyonight&hide_border=true" alt="sopiyaaaaa GitHub streak" />
+</p>
+<p>
+  <img src="https://ghchart.rshah.org/7aa2f7/sopiyaaaaa" alt="sopiyaaaaa contribution graph" />
+</p>
