@@ -11,7 +11,7 @@
 
 ### 👩‍💻 About me
 
-- 🎓 4th-year BS Information Technology student at **UST**, specializing in Web and Mobile App Development
+- 🎓 4th-year BS Information Technology student at **University of Santo Tomas (UST)**, specializing in Web and Mobile App Development
 - 🔭 Currently building **Thomasi18n Hub**, a web portal for UST's Office of International Relations and Programs
 - 🌱 Open to **internship** opportunities in full-stack development
 - 📍 Manila, Philippines
